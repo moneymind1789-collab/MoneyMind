@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://moneymind1789-collab.github.io/MoneyMind/sitemap.xml
